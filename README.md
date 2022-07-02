@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Example](https://raw.githubusercontent.com/da-nish/zero-balance-app-ui/master/2.png)
+<img src="https://raw.githubusercontent.com/da-nish/food-app-ui/master/1.png" width="320" />
+<img src="https://raw.githubusercontent.com/da-nish/food-app-ui/master/2.png" width="320" />
+<img src="https://raw.githubusercontent.com/da-nish/food-app-ui/master/3.png" width="320" />
 
-
-![Example](https://raw.githubusercontent.com/da-nish/zero-balance-app-ui/master/1.png)
